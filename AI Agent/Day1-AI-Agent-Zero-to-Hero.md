@@ -28,7 +28,7 @@ Any coding agent (Claude, Cursor, GitHub Copilot) can build a working agent quic
 
 This works well in testing — a good **Day 1 prototype**. But taking this as-is into production is **not viable**.
 
-### Day 2 questions raised
+### Questions raised next day:
 - Can we trust the agent's answers?
 - Where will the agent run, and how does it scale?
 - Can it remember previous incidents?
